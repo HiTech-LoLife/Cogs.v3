@@ -1,5 +1,7 @@
 <a href="https://www.patreon.com/bePatron?u=8964424" data-patreon-widget-type="become-patron-button"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png"></a>
 
+MODIFIED NAME
+
 # Cogs.v3
 Cogs for Red Discord bot v3
 
